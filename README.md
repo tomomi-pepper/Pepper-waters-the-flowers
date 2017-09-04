@@ -15,7 +15,7 @@ Android以下のソースコードは[Project Linking](https://linkingiot.com/)�
 
 また、
 <pre>Android/PepperFlowerApp/app/src/main/java/com/sample/nttdocomo/android/linkingpairingdemo/pairing/SensorDemoActivity.java</pre>
-の321行目のurlのIPアドレスを各自の環境に合わせて変更してください。
+の321行目のURLのIPアドレスを各自の環境に合わせて変更してください。
 <code>URL url = new URL("http://127.0.0.1/set_humidity.php?humidity=" + humidity);</code>
 
 # Server
